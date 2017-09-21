@@ -79,8 +79,112 @@ Considero a Elixir el siguiente paso logico en programación.
 #+ATTR_HTML: :width 550px
 [[file:images/BOB-ROSS.jpg]]
 #+END_CENTER
+#+ATTR_HTML: :class note
+#+BEGIN_QUOTE
+1.[fn:1]
+#+END_QUOTE
 
-* Thank You ˊ・ω・ˋ
+** Erlang -> Elixir
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 280px
+[[file:images/erlang_the_movie.jpg]]
+#+END_CENTER
+#+ATTR_HTML: :class note
+#+BEGIN_QUOTE
+2.[fn:2]
+#+END_QUOTE
+
+** Creado en =1980 aprox=
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/ericsson-logo.jpg]]
+#+END_CENTER
+
+** Diseñado para Array de Procesadores
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 450px
+[[file:images/array-procesadores.png]]
+#+END_CENTER
+
+** Donde se usa Erlang
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/telefonista.jpg]]
+#+END_CENTER
+
+** [[https://www.youtube.com/watch?v=c12cYAUTXXs&t=7s][WhatsApp: 55 Ingenieros - $19 Millones]]
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/whatsapp.png]]
+#+END_CENTER
+
+** Clojure -> Elixir
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 350px
+[[file:images/clojure.jpg]]
+#+END_CENTER
+
+** Puedes programar a Elixir desde Elixir (Demo?)
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/programing-to-elixir.png]]
+#+END_CENTER
+
+* Aplicaciones en Elixir
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+** Web
+- [[https://www.youtube.com/watch?v=AdY5AfXs7aw][18 Months of Elixir in Production at Bleacher Report]]
+- [[https://www.youtube.com/watch?v=GFyFR5LdnrU][Building an Open Source, Real Time Forum with Phoenix and Elm]]
+- [[https://www.youtube.com/watch?v=PEckzwggd78][Live APIs with GraphQL Subscriptions ]]
+- [[https://www.youtube.com/watch?v=aLnSO6FQpHs][Realtime Vehicle Tracking with Elixir and Phoenix]]
+
+** IOT
+- [[https://www.youtube.com/watch?v=fOJ9j_XWlYs][From zero to IoT (using Elixir and Nerves)]]
+- [[https://www.youtube.com/watch?v=ARQD4BN_5ns][Building an Artificial Pancreas with Elixir and Nerves]]
+- [[https://www.youtube.com/watch?v=PT-WAbiS7rE][Elixir in the Real World with Nerves]]
+
+** Machine Learning
+- [[https://www.youtube.com/watch?v=ZgPwqN38xaA][Machine Learning with Elixir and Phoenix]]
+- [[https://www.youtube.com/watch?v=YE0h9DURSOo][Building a Neural Network from Scratch by Karmen Blake]]
+- [[http://www.automatingthefuture.com/][Automating the Future]]
+
+** [[https://www.youtube.com/watch?v=77FW-jrCyCs][y para el futuro]]
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/native.png]]
+#+END_CENTER
+
+* Dónde aprenderlo?
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+**[[https://elixirschool.com/es/][Elixirschool]] y [[https://www.udemy.com/elixir-for-beginners/][Udemy]]
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/udemy.png]]
+#+END_CENTER
+
+** [[https://bigmachine.io/products/take-off-with-elixir][Take Off with elixir]]
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/take-off.png]]
+#+END_CENTER
+
+** [[https://pragprog.com/titles/category/elixir][Libros]]
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/libros.png]]
+#+END_CENTER
+
+* Gracias ˊ・ω・ˋ
 :PROPERTIES:
 :SLIDE: thank-you-slide segue
 :ASIDE: right
@@ -90,3 +194,4 @@ Considero a Elixir el siguiente paso logico en programación.
 * Footnotes
 
 [fn:1] Bob Ross, pintor de "árboles felices" y del "placer de pintar"
+[fn:2] [[https://youtu.be/xrIjfIjssLE][Erlang The Movie - 1986]]
