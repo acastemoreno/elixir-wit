@@ -1,0 +1,92 @@
+#+TITLE: ¿Por qué Elixir?
+#+SUBTITLE: Productivo |> Mantenible |> Confiable |> Divertido
+#+DATE: 2017/09/21（Sabado）20:30
+#+AUTHOR: Albert Castellano Moreno
+#+EMAIL: acastemoreno@gmail.com
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 25.2.1
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+
+#+GITHUB: http://github.com/acastemoreno
+
+#+FAVICON: images/elixir.png
+#+ICON: images/elixir.png
+
+** Amiguito. Quién eres?
+Formación:
+- Ingenierío Mecánico - Universidad Nacional de Ingeniería.
+Experiencia Laboral:
+- Ingeniero de Proyectos en Control System Integration
+- Elixirist ♥
+- Practicas pre-profesional en Control System Integration
+
+Pueden llamarme *Amiguito*
+
+** ¿De qué trata esta presentación?
+=Honestamente=. Estoy enamorado de Elixir Language.
+
+Mi deseo es poder compartir con ustedes las razon es de ese sentimiento y animarles a aprender este lenguaje.
+
+** Programación: Autodidacta
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 650px
+[[file:images/lenguajes.png]]
+#+END_CENTER
+
+
+Considero a Elixir el siguiente paso logico en programación.
+
+* Historia
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+** Jose Valim (Parte del Core Team de =Ruby On Rails=)
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 600px
+[[file:images/jose_valim.jpg]]
+#+END_CENTER
+
+** Problema
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/multithreaded_programming.jpg]]
+#+END_CENTER
+
+** Proceso de Creación
+
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 700px
+[[file:images/pineapple_pen.gif]]
+#+END_CENTER
+
+** Lo mejor de 3 lenguajes de programación
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 400px
+[[file:images/logos.jpg]]
+#+END_CENTER
+
+** Ruby -> Elixir
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 550px
+[[file:images/BOB-ROSS.jpg]]
+#+END_CENTER
+
+* Thank You ˊ・ω・ˋ
+:PROPERTIES:
+:SLIDE: thank-you-slide segue
+:ASIDE: right
+:ARTICLE: flexbox vleft auto-fadein
+:END:
+
+* Footnotes
+
+[fn:1] Bob Ross, pintor de "árboles felices" y del "placer de pintar"
